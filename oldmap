@@ -1,0 +1,5 @@
+CFOOffice	ConfRoomNorth	ConfRoomNorth2	OfficeManagerOffice	StorageCloset	CIOOffice
+CopierRoom	Hallway		Hallway		Hallway			Hallway		SmallKitchen
+StartingRoom	Hallway		0		0			Hallway		Room
+0		Hallway		MensStall	0			Hallway		Room
+0		Hallway		MensBathroom	MensUrinal		Hallway		Room
